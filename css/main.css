@@ -1,0 +1,61 @@
+
+.body{
+    margin: 0; 
+    background-color: royalblue;
+}
+.header{
+    background-color:teal;  
+    overflow: hidden;
+}
+.container{
+    width: 70%;
+    padding-left: 15%;
+}
+
+.header .logo{
+    float: left;
+    font-size: 40px;
+    
+}
+.header .navigation{
+    float: right;
+    margin-top: 40px;
+}
+.header .navigation li{
+    float: right;
+    display: block;
+    margin-left: 20px;
+}
+.header .navigation li a{
+    text-decoration: none;
+    color: seashell;
+}
+.containerbody{
+    width: 70%;
+    padding-left: 15%;
+}
+.footer{
+    background-color: rgb(54, 58, 57);
+}
+.footer img{
+    max-width: 80px;
+    max-height: 85px;
+    
+}
+.footer p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+
+}
+.footer h1{
+text-align: center;
+color: white;
+}    
+.footer marquee{
+color: white;
+background-color: teal;
+}
